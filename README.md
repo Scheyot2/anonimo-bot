@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00ff04&center=falso&vCenter=falso&lines=𝐀𝐍𝐎𝐍𝐈𝐌𝐎-𝐁𝐎𝐓+(⁠⌐⁠■⁠-⁠■⁠);𝐓𝐎𝐏 1+𝐁𝐎𝐓+𝐃𝐄+𝐅𝐀𝐂 ᕙ⁠(͡⁠°⁠‿⁠ ͡⁠°⁠)⁠ᕗ;700+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 (⁠‘⁠◉⁠⌓⁠◉⁠’⁠);𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00ff04&center=falso&vCenter=falso&lines=𝐀𝐍𝐎𝐍𝐈𝐌𝐎-𝐁𝐎𝐓+(⁠⌐⁠■⁠-⁠■⁠);𝐓𝐎𝐏 1+𝐁𝐎𝐓+𝐃𝐄+𝐅𝐀𝐂;+700 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 (⁠‘⁠◉⁠⌓⁠◉⁠’⁠);𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
@@ -42,22 +42,6 @@ cd /sdcard/anonimo-bot
 ## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
 sh start.sh
-```
-
-
-
-
-**"Ligar o Bot com 2 cmd"**
-```
-cd /sdcard/anonimo-bot
-```
-
-**depôs**
-```
-sh start.sh
-```
-
-**Facil né? ^-^**
 ```
 
 
