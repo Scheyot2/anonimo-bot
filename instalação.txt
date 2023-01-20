@@ -1,0 +1,16 @@
+INSTALAÇÃO DO ANÔNIMO BOT NO TERMUX
+
+
+pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs -y && pkg install nodejs-lts -y
+
+termux-setup-storage
+
+cd /sdcard/anonimo-bot ou cd /sdcard/download/anonimo-bot
+
+pkg install ffmpeg -y && pkg install tesseract -y && pkg install python -y
+
+pkg install ffmpeg -y && pkg install wget -y 
+
+Chave para iniciar o Anônimo: sh start.sh
+ou
+Chave para iniciar o Anônimo: npm start
