@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00ff04&center=falso&vCenter=falso&lines=𝐀𝐍𝐎𝐍𝐈𝐌𝐎-𝐁𝐎𝐓+(⁠⌐⁠■⁠-⁠■⁠);𝐓𝐎𝐏1+𝐁𝐎𝐓+𝐃𝐄+𝐅𝐀𝐂;700+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒(⁠‘⁠◉⁠⌓⁠◉⁠’⁠);𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00ff04&center=falso&vCenter=falso&lines=𝐀𝐍𝐎𝐍𝐈𝐌𝐎-𝐁𝐎𝐓+(⁠⌐⁠■⁠-⁠■⁠);𝐓𝐎𝐏1+𝐁𝐎𝐓+𝐃𝐄+𝐅𝐀𝐂 𝐁𝐑;700+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒(⁠‘⁠◉⁠⌓⁠◉⁠’⁠);𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
