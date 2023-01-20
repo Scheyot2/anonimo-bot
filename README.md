@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝐀𝐍𝐎̂𝐍𝐈𝐌𝐎𝐒-𝐁𝐎𝐓+(⁠⌐⁠■⁠-⁠■⁠);𝐓𝐎𝐏1+𝐁𝐎𝐓+𝐃𝐄+𝐅𝐀𝐂;700+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00ff04&center=falso&vCenter=falso&lines=𝐀𝐍𝐎𝐍𝐈𝐌𝐎𝐒-𝐁𝐎𝐓+(⁠⌐⁠■⁠-⁠■⁠);𝐓𝐎𝐏1+𝐁𝐎𝐓+𝐃𝐄+𝐅𝐀𝐂;700+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/d2ffe7ef6b9b9cb27805b.jpg" alt="ANÔNIMOS-BOT" width="720">
+<img src= "https://telegra.ph/file/d2ffe7ef6b9b9cb27805b.jpg" alt="ANÔNIMO-BOT" width="720">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ git clone https://github.com/Scheyot2/sakura-botv6.git
 ```
 **5° Comando**
 ```
-cd anonimo-bot 
+cd /sdcard/anonimo-bot 
 ```
 
 ## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
@@ -46,5 +46,9 @@ sh start.sh
 ## Gerar um novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
 ```
 sh qrcode.sh
+```
+
+
+@𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙™𝕯𝖔𝖒𝖎𝖓𝖆
 ```
 
