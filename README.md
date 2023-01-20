@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00ff04&center=falso&vCenter=falso&lines=𝐀𝐍𝐎𝐍𝐈𝐌𝐎𝐒-𝐁𝐎𝐓+(⁠⌐⁠■⁠-⁠■⁠);𝐓𝐎𝐏1+𝐁𝐎𝐓+𝐃𝐄+𝐅𝐀𝐂;700+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00ff04&center=falso&vCenter=falso&lines=𝐀𝐍𝐎𝐍𝐈𝐌𝐎-𝐁𝐎𝐓+(⁠⌐⁠■⁠-⁠■⁠);𝐓𝐎𝐏 1+𝐁𝐎𝐓+𝐃𝐄+𝐅𝐀𝐂 ᕙ⁠(͡⁠°⁠‿⁠ ͡⁠°⁠)⁠ᕗ;700+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 (⁠‘⁠◉⁠⌓⁠◉⁠’⁠);𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
@@ -38,15 +38,36 @@ git clone https://github.com/Scheyot2/sakura-botv6.git
 cd /sdcard/anonimo-bot 
 ```
 
+
 ## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
 sh start.sh
 ```
 
+
+
+
+**"Ligar o Bot com 2 cmd"**
+```
+cd /sdcard/anonimo-bot
+```
+
+**depôs**
+```
+sh start.sh
+```
+
+**Facil né? ^-^**
+```
+
+
 ## Gerar um novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
 ```
 sh qrcode.sh
 ```
+
+
+
 
 
 @𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙™𝕯𝖔𝖒𝖎𝖓𝖆
