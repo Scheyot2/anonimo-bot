@@ -31,7 +31,7 @@ cd /sdcard/
 ```
 **4° Comando**
 ```
-git clone https://github.com/Scheyot2/sakura-botv6.git
+git clone https://github.com/Scheyot2/anonimo-bot.git
 ```
 **5° Comando**
 ```
